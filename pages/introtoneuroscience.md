@@ -21,7 +21,7 @@ permalink: "/introtoneuroscience/"
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-#  What is Neuroscience?
+# What is Neuroscience?
 Neuroscience is a multidisciplinary study devoted to understanding the nervous system and its core component, the brain. This investigation can occur at multiple levels, from molecular synapses and cellular networks to cognition and behavior. Because of this, methods of inquiry and research are drawn from a number of disciplines, including molecular and cellular biology, physiology, biomedicine, behavioral science, cognitive psychology, electrical engineering, computer science and artificial intelligence.
 
 Neuroscientists hope to understand how cellular circuits enable us to read and speak, how we bond with other humans, how we learn and retain information, how we experience pain, and how we feel motivation. They also hope to find causes for devastating disorders of the brain and body, as well as ways to prevent or cure them. Enormous progress has been made but we still don't understand the full extent of how the brain works.

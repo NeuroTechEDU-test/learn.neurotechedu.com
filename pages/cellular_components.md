@@ -25,9 +25,9 @@ permalink: "/cellular_components/"
 
 Neurons are the largest population of cells in the nervous system that specialize in communication. Estimates vary but there appear to be approximately 100 billion neurons in the brain. They can come in several shapes and sizes depending on their specialized functions but all neurons will have axons and dendrites that protrude from the cell body.
 
-![Neurons in the brain]({{ "/images/introtoneuro/wellcome_udqg385v.jpg" | absolute_url }}){:height="100px"}
+![Neurons in the brain]({{ "/images/introtoneuro/wellcome_udqg385v.jpg" | absolute_url }})
 
-**Neurons in the brain** *Credit: [Dr Jonathan Clarke](https://wellcomecollection.org/works/udqg385v). [CC BY](https://creativecommons.org/licenses/by/4.0/)*
+**Neurons in the brain** *Credit: Dr Jonathan Clarke [CC BY](https://creativecommons.org/licenses/by/4.0/) via [Wellcome Collection](https://wellcomecollection.org/works/udqg385v)*
 
 ### Dendrites {#dendrites}
 
@@ -43,26 +43,31 @@ Most neurons have a single axon that typically sends electrical impulses outward
 
 Neurons communicate through axon-dendrite, axon-soma and sometimes dendrite-dendrite connections but these protrusions don't actually touch. A chemical synapse consists of a small gap between two neurons, with specialized proteins at both the presynaptic and postsynaptic membrane. Processes activated by these electrical signals at the presynaptic membrane of the end of one axon result in a downstream cascade leading to the release of chemicals called neurotransmitters. Other electrical synapses also exist between cells that are very close to each other and contain specialized tunnel-like structures, called gap junctions, allowing electrical signals to travel through them.
 
-
-[![Synapse schematic]({{ "/images/introtoneuro/SynapseSchematic_en.svg.png" | absolute_url }})](https://commons.wikimedia.org/wiki/File:SynapseSchematic_lines.svg){:height="100px"}
+![Synapse schematic](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/SynapseSchematic_en.svg/500px-SynapseSchematic_en.svg.png)
 
 **Synapse schematic**
-*Credit: [Thomas Splettstoesser (www.scistyle.com)](https://commons.wikimedia.org/wiki/File:SynapseSchematic_lines.svg). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)*
-
-
+*Credit: Thomas Splettstoesser (www.scistyle.com) [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:SynapseSchematic_en.svg)*
 
 ## Neuronal Communication {#neuronal-communication}
 
 An electrical signal from one neuron's axon will trigger a release of neurotransmitters which bind to channels on another neuron's dendrite. This causes the channels to open and receive positively-charged ions from the synapse. If this increases the charge enough, can trigger an action potential, causing that neuron to send an electrical signal (positive charge) down its own axon.
 
-[![Chemical synapse schema cropped](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Chemical_synapse_schema_cropped.jpg/512px-Chemical_synapse_schema_cropped.jpg)](https://commons.wikimedia.org/wiki/File%3AChemical_synapse_schema_cropped.jpg "By user:Looie496 created file, US National Institutes of Health, National Institute on Aging created original \[Public domain\], via Wikimedia Commons")
+![Chemical synapse schema cropped](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Chemical_synapse_schema_cropped.jpg/512px-Chemical_synapse_schema_cropped.jpg)
 
-**Chemical Synapse**
+**Chemical Synapse** *via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chemical_synapse_schema_cropped.jpg)*
 
-## Neural Networks {#neural-networks}
+### Neural Networks {#neural-networks}
 
 A nervous system emerges from a large assemblage of connected neurons. Nerve impulses can also be transmitted in a multitude of ways: from a sensory receptor cell to a neuron; from a neuron to a set of muscles or an endocrine gland; from an astrocyte to a neuron. Any cell that receives a synaptic signal from a neuron may be excited, inhibited, or otherwise modulated.
 
+### Myelin
+
+Myelin is a fatty substance created by glial cells to support neurons. A myelin sheath on an axon acts like insulation on a wire as it increases the speed of the neuron's action potential. More recently, it has been demonstrated that the myelin sheath plays a bigger role in the support of the neuron by providing nutrition and even sculpting the axon itself.
+
+![Saltatory Conduction](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Saltatory_Conduction.gif/512px-Saltatory_Conduction.gif))
+
+**Saltatory Conduction**
+*Credit: Dr. Jana [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) via [Wikimedia Commons](https://en.wikipedia.org/wiki/Myelin#/media/File:Saltatory_Conduction.gif)*
 
 ## Glial Cells {#glial-cells}
 
